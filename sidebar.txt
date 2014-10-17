@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xuu:home|Door43 (xuu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xuu|d43-xuu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xuu/archive/master.zip|d43-xuu.zip]]
+
+**Recent Changes**
+{{changes>ns = xuu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xuu|Ethnologue data]]
+
